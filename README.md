@@ -1,71 +1,82 @@
-<h1 align="center">🎨Building simple, thoughtful digital products</h1>
+<div align="center">
 
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║        I DON'T JUST WRITE CODE                           ║
+║            I ENGINEER IMPACT                             ║
+║   From concept → system → scale. Intentional. Precise.   ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+
+# SAMIKSHYA BHUSAL
+### Frontend Developer • Product-Focused Engineer
+
+### I don’t build for applause — I build for outcomes.
+
+</div>
+
+---
+
+## ⚔️ WEAPON SYSTEMS ⚔️
 
 <p align="center">
-Thoughtful • Functional • Real-world
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,git,github,vscode" />
+</p>
+
+> The stack is a tool.  
+> Execution is the advantage.
+
+---
+
+## 🧠 SYSTEM MINDSET
+
+- Interfaces must communicate, not decorate.
+- Logic drives experience.
+- Scalability is planned — not patched later.
+- Performance is respect for the user.
+- Real products solve real problems.
+
+---
+
+## 🚀 WHAT I DELIVER
+
+✔ High-performance frontend architecture  
+✔ Scalable full-stack foundations (Node + MongoDB)  
+✔ Seamless UI/UX systems  
+✔ Production-ready deployments  
+✔ Solutions built for growth  
+
+---
+
+## 🔥 DEVELOPMENT STANDARD
+
+I don’t copy templates.  
+I don’t follow noise.  
+I don’t ship unfinished thinking.  
+
+I analyze.  
+I architect.  
+I execute.
+
+---
+
+## 🌐 CONNECT TO THE SYSTEM
+
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">GitHub</a> •
+  <a href="https://linkedin.com/in/YOUR_LINK">LinkedIn</a> •
+  <a href="mailto:your@email.com">Email</a>
 </p>
 
 ---
 
-## 👩‍💻 Samikshya Bhusal  
-### Frontend / Full-Stack Developer
+<div align="center">
 
-> Simple ideas. Clean design.  
-> Code that actually works.
+## ☕ FINAL STATEMENT
 
----
+### Code fades.  
+### Systems scale.
 
-## 🧠 My Approach
-- 🎯 Build with purpose  
-- 🎨 Design before development  
-- ✂️ Simplicity > Complexity  
-- ⚡ Performance matters  
-- 📚 Learning never stops  
+⚡ Engineered by Samikshya Bhusal ⚡
 
----
-
-## ⚔️ Tech I Use
-
-### 🧩 Languages
-- JavaScript  
-- HTML  
-- CSS  
-
-### 🛠️ Backend & Database
-- Node.js  
-- MongoDB  
-
-### 🎨 Design & Creative
-- Photoshop  
-- DaVinci Resolve  
-
-### 🎯 Focus Areas
-- Responsive interfaces  
-- Thoughtful user experience  
-- Clean, maintainable code  
-- Ready-to-deploy projects
-  
----
-
-## 🚀 What I Build
-- 🌐 Modern responsive websites  
-- 📦 Product-focused web apps  
-- 🎯 Clean UI with real UX  
-- 🎥 Creative visuals & motion  
-- 🧪 Practical projects — **not demos**
-
----
-## ☕ Final Note
-Still learning.  
-Still building.  
-
-One step at a time.
-*
-
-Just **consistent building.**
-
----
-
-<p align="center">
-⚡ Built by <b>Samikshya Bhusal</b> ⚡
-</p>
+</div>
