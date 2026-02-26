@@ -63,9 +63,9 @@ I execute.
 ## 🌐 CONNECT TO THE SYSTEM
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">GitHub</a> •
-  <a href="https://linkedin.com/in/YOUR_LINK">LinkedIn</a> •
-  <a href="mailto:your@email.com">Email</a>
+  <a href="https://github.com/Samubhusal">GitHub</a> •
+  <a href="https://linkedin.com/in/Samikshya Bhusal">LinkedIn</a> •
+  <a href="mailto:samikahyabhusal066@email.com">Email</a>
 </p>
 
 ---
