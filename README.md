@@ -3,7 +3,6 @@
 ║                                                          ║
 ║        I DON'T JUST WRITE CODE                           ║
 ║            I ENGINEER IMPACT                             ║
-║   From concept → system → scale. Intentional. Precise.   ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 
