@@ -1,10 +1,4 @@
 <div align="center">
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║        I DON'T JUST WRITE CODE                           ║
-║            I ENGINEER IMPACT                             ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
 
 # SAMIKSHYA BHUSAL
 ### Frontend Developer • Product-Focused Engineer
